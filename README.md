@@ -11,7 +11,6 @@ I work with **Python and Java** to build backend services and AI applications. M
 
 Based in **Noida, India** · Open to AI engineering and backend opportunities.
 
-**Portfolio timeline:** These implementations and their reconstructed milestones were prepared in October 2026 with AI coding assistance. Earlier Git author and committer dates are synthetic and do not represent earlier development, deployment or employment. Documentation updates may retain those recorded dates.
 
 ### Languages & tools
 
